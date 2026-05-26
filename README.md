@@ -1,1 +1,3 @@
-# atividades-ic-git-2026-1
+# Colaboradores
+
+Lunna de Aguiar Mendonça Morelato Moreno
